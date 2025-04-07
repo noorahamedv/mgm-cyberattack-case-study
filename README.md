@@ -17,6 +17,9 @@ This repository presents a comprehensive analysis of the September 2023 ransomwa
 You can find the full PDF report here:  
 ➡️ [`MGM_Cyberattack_Case_Study.pdf`](report/MGM_Cyberattack_Case_Study.pdf)
 
+📖 [View full references](./references.md)
+
+
 ## 🔎 Summary
 
 The case study proposes actionable strategies such as:
